@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1535537504980">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1535744827990">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
+    <file name="semana-2.css" crc="3860105629" ref="semana-2"/>
+    <file name="semana-1.css" crc="4269329739" ref="semana-1"/>
     <file name="development.css" crc="139071121" ref="development"/>
-    <file name="semana-1.css" crc="308951283" ref="semana-1"/>
-    <file name="nosotros.css" crc="73660018" ref="nosotros"/>
-    <file name="semana-2.css" crc="4001216398" ref="semana-2"/>
-    <file name="index.css" crc="4140506887" ref="index"/>
-    <file name="nomq_index.css" crc="72884732" ref="index"/>
+    <file name="index.css" crc="4049128956" ref="index"/>
+    <file name="nomq_index.css" crc="297208976" ref="index"/>
+    <file name="nosotros.css" crc="4199218167" ref="nosotros"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2"/>
@@ -25,6 +25,18 @@
     <file name="require.js" crc="4157109226" ref="index:nosotros:development:semana-1:semana-2"/>
   </folder>
   <folder name="images">
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="header.jpg" crc="341647118" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -96,7 +108,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header1.jpg" crc="4033828488" seo="true" ref="index">
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="3973250399" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -111,13 +137,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="upch.jpg" crc="24795733" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tendinitis2.jpg" crc="3887544996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -174,6 +193,9 @@
     <file name="elena.jpg" crc="4235854575" seo="true" ref="nosotros">
       <caption webpage="nosotros" alt=""/>
     </file>
+    <file name="organigrama.jpg" crc="4201823912" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
     <file name="u4672-4.png" crc="80186589" ref="development"/>
     <file name="u4678-4.png" crc="288911377" ref="development"/>
     <file name="u4686-3.png" crc="124896955" ref="development"/>
@@ -188,6 +210,18 @@
     <file name="u5217-3.png" crc="124896955" ref="semana-1"/>
     <file name="u5231-4.png" crc="4159539293" ref="semana-1"/>
     <file name="u5197-3.png" crc="124896955" ref="semana-1"/>
+    <file name="fondo.jpg" crc="4185366076" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="plantilla.jpg" crc="3970071115" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="mano.jpg" crc="3975780418" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="world.jpg" crc="4024944570" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
     <file name="se1di1.jpg" crc="435757768" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
@@ -210,6 +244,27 @@
     <file name="u5380-3.png" crc="124896955" ref="semana-2"/>
     <file name="u5358-4.png" crc="4159539293" ref="semana-2"/>
     <file name="u5390-3.png" crc="124896955" ref="semana-2"/>
+    <file name="idea2.jpg" crc="3760210959" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="imag2.jpg" crc="528650076" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="ima1.jpg" crc="282493353" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="est1.jpg" crc="4225895231" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="est2.jpg" crc="4251989837" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="imag3.jpg" crc="53525513" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="imag4.jpg" crc="402973650" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
     <file name="s2d1.jpg" crc="45601662" seo="true" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
@@ -226,9 +281,9 @@
       <caption webpage="semana-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="313114145" seo="true" mt="1535491763476" redirect="true"/>
-  <file name="nosotros.html" crc="3908190802" seo="true" mt="1535515986176" redirect="true"/>
+  <file name="index.html" crc="3891878344" seo="true" mt="1535738027643" redirect="true"/>
+  <file name="nosotros.html" crc="3780980047" seo="true" mt="1535741073729" redirect="true"/>
   <file name="development.html" crc="431268129" seo="true" mt="1535536734730" redirect="true"/>
-  <file name="semana-1.html" crc="98541415" seo="true" mt="1535536656535" redirect="true"/>
-  <file name="semana-2.html" crc="4161302144" seo="true" mt="1535537075840" redirect="true"/>
+  <file name="semana-1.html" crc="3898322347" seo="true" mt="1535744725668" redirect="true"/>
+  <file name="semana-2.html" crc="245556247" seo="true" mt="1535743479300" redirect="true"/>
 </manifest>
